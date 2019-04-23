@@ -1,0 +1,9 @@
+[package]
+name = "raspberry_humidity"
+version = "0.1.0"
+authors = ["Yana Agun Siswanto <yana.developer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rumqtt = "0.30.1"
+
